@@ -11,5 +11,5 @@ a number of advanced features:
 
 ## Documentation
 
-* [Schema](https://cdn.rawgit.com/openphilology/tei-ocr/master/schema/tei-ocr.rng)
+* [Schema](https://raw.githubusercontent.com/OpenPhilology/tei-ocr/master/schema/tei_ocr.rng)
 * [Documentation](http://openphilology.github.io/nidaba/tei.html)
